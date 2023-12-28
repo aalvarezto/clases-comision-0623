@@ -1,16 +1,15 @@
 /**
- * Crear un programa que cuente la cantidad de 
+ * Crear un programa que cuente la cantidad de
  * vocales en un string.
- * 
- * recordar que 
- * 
+ *
+ * recordar que
+ *
  * ```js
  * const texto = "abc"
- * 
+ *
  * console.log(texto[0]) // "a"
  * ```
  */
-
 
 /**
  * Crear un programa que cree un string nuevo con las
